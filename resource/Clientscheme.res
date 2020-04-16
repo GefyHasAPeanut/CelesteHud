@@ -28,7 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"10"
 				"antialias" "1"
 			}
@@ -37,7 +37,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"12"
 				"antialias" "1"
 			}
@@ -46,7 +46,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"15"
 				"antialias" "1"
 			}
@@ -55,7 +55,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"18"
 				"antialias" "1"
 			}
@@ -64,7 +64,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"20"
 				"antialias" "1"
 			}
@@ -73,7 +73,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"22"
 				"antialias" "1"
 			}
@@ -82,7 +82,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"25"
 				"antialias" "1"
 			}
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"28"
 				"antialias" "1"
 			}
@@ -100,7 +100,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"30"
 				"antialias" "1"
 			}
@@ -109,7 +109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"32"
 				"antialias" "1"
 			}
@@ -118,7 +118,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"35"
 				"antialias" "1"
 			}
@@ -127,7 +127,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"38"
 				"antialias" "1"
 			}
@@ -136,7 +136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"40"
 				"antialias" "1"
 			}
@@ -145,7 +145,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"42"
 				"antialias" "1"
 			}
@@ -154,7 +154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"45"
 				"antialias" "1"
 			}
@@ -163,7 +163,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -172,7 +172,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"50"
 				"antialias" "1"
 			}
@@ -181,7 +181,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"52"
 				"antialias" "1"
 			}
@@ -190,7 +190,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"55"
 				"antialias" "1"
 			}
@@ -199,7 +199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"58"
 				"antialias" "1"
 			}
@@ -208,7 +208,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Renogare"
 				"tall"		"60"
 				"antialias" "1"
 			}
